@@ -4,3 +4,4 @@
 3. Polynomial Linear Model
 4. Support Vector Machine Model
 5. Decision Tree Model
+6. Random Forest Model 
